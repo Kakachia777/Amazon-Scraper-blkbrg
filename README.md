@@ -133,4 +133,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - Built with crawl4ai
 - Uses Playwright for web automation
 - Modern GUI with tkinter
-```
