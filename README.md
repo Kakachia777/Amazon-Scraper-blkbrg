@@ -1,6 +1,6 @@
 # Amazon-Scraper-blkbrg
 
-![Amazon](amazon_scraper.png)
+![Amazon](Amazon Scraper.png)
 
 A professional Amazon product data scraper with a modern GUI interface. This tool allows you to extract product information from Amazon using ASINs from an Excel file.
 
