@@ -1,0 +1,10 @@
+crawl4ai[all]==0.3.731
+openpyxl
+Pillow
+streamlit
+beautifulsoup4
+playwright==1.47.0
+aiohttp
+python-dotenv
+nest_asyncio
+pyinstaller
